@@ -1,0 +1,20 @@
+table, td, th{
+    border: solid 1px rgb(240, 209, 56);
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    width: 150px;
+    font-size: 20px;
+}
+th{
+    background-color: rgb(245, 240, 78);
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+td#nada {
+    background-color: black;
+}
